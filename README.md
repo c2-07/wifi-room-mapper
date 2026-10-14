@@ -2,6 +2,12 @@
 
 A Flutter app for mapping indoor spaces using Wi-Fi signal fingerprints and predicting room locations.
 
+<p align="center">
+  <img src="assets/screenshots/verify.jpg" width="32%" />
+  <img src="assets/screenshots/system.jpg" width="32%" />
+  <img src="assets/screenshots/scan.jpg" width="32%" />
+</p>
+
 ## Features
 
 - **Wi-Fi Scanning:** Capture multiple scans per location with configurable intervals.
